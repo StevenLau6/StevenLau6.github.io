@@ -20,4 +20,5 @@ I am currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~lab
 
 ### Contact Me:
 Email: shuaiqi.liu@connect.polyu.hk
+
 Office: PQ503, Mong Man Wai Building
