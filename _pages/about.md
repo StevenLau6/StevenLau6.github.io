@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a>@PolyU, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. Before that, I recieved my B.Eng. degree from Zhejiang University. Please feel free to drop me an email on any interesting topics!
+I am currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ PolyU, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. Before that, I recieved my B.Eng. degree from Zhejiang University. Please feel free to drop me an email on any interesting topics!
 
 
 ### Research Interests:
