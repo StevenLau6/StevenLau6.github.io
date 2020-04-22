@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuaiqi Liu"
+title: "Shuaiqi LIU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,8 +17,8 @@ LIU is currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~l
 * Knowledge Graph
 
 ### Teaching Experience:
-Teaching Assistant,2019 Fall, COMP3011:Design and Analysis of Algorithms
-Teaching Assistant,2020 Spring, COMP1011:Programming Fundamentals
+Teaching Assistant, 2019 Fall, COMP3011: Design and Analysis of Algorithms
+Teaching Assistant, 2020 Spring, COMP1011: Programming Fundamentals(C++)
 
 ------
 
