@@ -11,9 +11,9 @@ title                    : "Shuaiqi Liu"
 title_separator          : "-"
 name                     : &name "Shuaiqi Liu"
 description              : &description "personal description"
-url                      : https://Shuaiqi-Liu.github.io 
+url                      : https://StevenLau6.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Shuaiqi-Liu/Shuaiqi-Liu.github.io"
+repository               : "StevenLau6/StevenLau6.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Shuaiqi-Liu"
+  github           : "StevenLau6"
   google_plus      :
   keybase          :
   instagram        :
