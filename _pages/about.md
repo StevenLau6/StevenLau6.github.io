@@ -13,17 +13,19 @@ LIU is currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~l
 
 ### Research Interests:
 * Natural Language Processing
-* Text Mining
+* Text Summarization
+* Document Summarization
 * Knowledge Graph
 
 ### Teaching Experience:
 * Teaching Assistant, 2019 Fall, COMP3011: Design and Analysis of Algorithms
-* Teaching Assistant, 2020 Spring, COMP1011: Programming Fundamentals(C++)
+* Teaching Assistant, 2020 Spring, COMP1011: Programming Fundamentals (C++)
 * Teaching Assistant, 2020 Fall, COMP3131: Business and Information Systems Strategies
+* Teaching Assistant, 2021 Spring, COMP2421: Computer Organization
 
 ------
 
 ### Contact Me:
-Email: shuaiqi.liu@connect.polyu.hk
+Email: cssqliu@comp.polyu.edu.hk
 
 Office: PQ503, Mong Man Wai Building
