@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shuaiqi Liu"
   avatar           : "profile.png"
-  bio              : "PhD Student"
+  bio              : "PhD Candidate"
   location         :
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com.hk/citations?user=OLgJJ2MAAAAJ&hl=en"
   email            : "cssqliu@comp.polyu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "shuaiqi-liu-%E5%88%98%E5%B8%85%E5%B2%90-8ab93b13a"
-  orcid            :
+  orcid            : "https://orcid.org/0000-0002-6754-1587"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
