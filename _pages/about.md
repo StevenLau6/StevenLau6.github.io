@@ -29,9 +29,7 @@ LIU is currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~l
 <a href="https://scholar.google.com.hk/citations?hl=en&user=OLgJJ2MAAAAJ" target="_blank">Full List</a>
 
 ## Intern Experiences
-Algorithm Engineer Intern
-
-Didi Chuxing, Jan 2019-May 2019
+Algorithm Engineer Intern, Didi Chuxing, Jan 2019-May 2019
 
 ------
 
