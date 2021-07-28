@@ -13,9 +13,9 @@ LIU is currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~l
 
 ## Research Interests:
 * Natural Language Processing
-* Text Summarization
 * Document Summarization
-* Knowledge Graph
+* Text Summarization
+* Text Generation
 
 ## Teaching Experience:
 * Teaching Assistant, 2019 Fall, COMP3011: Design and Analysis of Algorithms
@@ -25,6 +25,12 @@ LIU is currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~l
 
 ## Publications:
 **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings **(Findings of ACL-IJCNLP 2021)**.
+
+<a href="https://scholar.google.com.hk/citations?hl=en&user=OLgJJ2MAAAAJ" target="_blank">Full List</a>
+
+## Intern Experiences
+Algorithm Engineer Intern
+Didi Chuxing, Jan,2019-May,2019
 
 ------
 
