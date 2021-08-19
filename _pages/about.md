@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-LIU is currently a PhD student in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ PolyU, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. Before that, He recieved his B.Eng. degree from Zhejiang University.
+LIU is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ PolyU, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. Before that, He recieved his B.Eng. degree from Zhejiang University.
 
 
 ## Research Interests:
