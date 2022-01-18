@@ -23,6 +23,7 @@ LIU is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/
 * Teaching Assistant, 2020 Fall, COMP3131: Business and Information Systems Strategies
 * Teaching Assistant, 2021 Spring, COMP2421: Computer Organization
 * Teaching Assistant, 2021 Fall, COMP4133: Information Retrieval
+* Teaching Assistant, 2022 Spring, COMP5511: Artificial Intelligence Concepts
 
 ## Publications:
 **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings **(Findings of ACL-IJCNLP 2021)**. <a href="https://aclanthology.org/2021.findings-acl.445.pdf">[PDF]</a>
@@ -37,4 +38,4 @@ Algorithm Engineer Intern, Didi Chuxing, Jan 2019-May 2019
 ## Contact Me:
 Email: cssqliu@comp.polyu.edu.hk
 
-Office: PQ503, Mong Man Wai Building
+Office: PQ503, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR 
