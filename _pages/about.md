@@ -28,6 +28,9 @@ LIU is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/
 ## Publications:
 **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings **(Findings of ACL-IJCNLP 2021)**. <a href="https://aclanthology.org/2021.findings-acl.445.pdf">[PDF]</a>
 
+**Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Key phrase aware transformer for abstractive summarization." Information Processing & Management (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000395">[PDF]</a>
+
+
 <a href="https://scholar.google.com.hk/citations?hl=en&user=OLgJJ2MAAAAJ" target="_blank">Full List</a>
 
 ## Intern Experiences
