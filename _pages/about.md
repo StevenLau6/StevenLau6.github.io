@@ -8,20 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-; LIU is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ PolyU, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. Before that, He recieved his B.Eng. degree from Zhejiang University.
+LIU is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ PolyU, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
 
 ## Education:
-The Hong Kong Polytechnic University (PolyU), Hong Kong, China
 
-Ph.D. Candidate in Computer Science, Sep. 2019 – Present
+Ph.D. Candidate in Computer Science, Sep. 2019 – Present, The Hong Kong Polytechnic University (PolyU), Hong Kong, China
 
-Supervisor: <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>
-
-
-Zhejiang University (ZJU), Hangzhou, China
-
-B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019
-
+B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University (ZJU), Hangzhou, China
 
 ## Research Interests:
 * Natural Language Processing
