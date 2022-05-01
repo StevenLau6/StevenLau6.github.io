@@ -23,11 +23,13 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University (
 * Text Generation
 
 ## Selected Publications:
-**Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings **(Findings of ACL-IJCNLP 2021)**. <a href="https://aclanthology.org/2021.findings-acl.445.pdf">[PDF]</a>
+
+**Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method", The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence **(IJCAI-ECAI 22)**.
 
 **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Key phrase aware transformer for abstractive summarization." Information Processing & Management (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000395">[PDF]</a>
 
-**Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method", The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence **(IJCAI-ECAI 22)**. 
+**Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings **(Findings of ACL-IJCNLP 2021)**. <a href="https://aclanthology.org/2021.findings-acl.445.pdf">[PDF]</a>
+
 
 <a href="https://scholar.google.com.hk/citations?hl=en&user=OLgJJ2MAAAAJ" target="_blank">Full List</a>
 
@@ -40,10 +42,10 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University (
 * Teaching Assistant, 2021 Fall, COMP4133: Information Retrieval
 * Teaching Assistant, 2022 Spring, COMP5511: Artificial Intelligence Concepts
 
-## Intern Experiences
-Algorithm Engineer Intern, Didi Chuxing, Jan 2019-May 2019
+## Intern Experiences:
+Algorithm Engineer Intern, Didi Chuxing, Jan. 2019-May 2019
 
-## Academic Services
+## Academic Services:
 Reviewer of ACL 2021, KDD 2022, BigData 2021 2020, and COMPSAC 2022.
 
 ------
