@@ -12,10 +12,14 @@ redirect_from:
 
 ## Education:
 The Hong Kong Polytechnic University (PolyU), Hong Kong, China
+
 Ph.D. Candidate in Computer Science, Sep. 2019 – Present
+
 Supervisor: <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>
 
+
 Zhejiang University (ZJU), Hangzhou, China
+
 B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019
 
 
