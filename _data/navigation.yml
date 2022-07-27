@@ -3,9 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Datasets"
-    url: /Datasets/  
+  - title: "Dataset"
+    url: /dataset/  
     
   - title: "Demo"
-    url: /Demo/ 
+    url: /demo/ 
     
