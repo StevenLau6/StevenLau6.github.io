@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Demo"
+permalink: /demo/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.demo reversed %}
+  {% include archive-single.html %}
+{% endfor %}
