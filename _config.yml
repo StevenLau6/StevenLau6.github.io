@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuaiqi Liu"
+title                    : "Shuaiqi Liu 刘帅岐"
 title_separator          : "-"
-name                     : &name "Shuaiqi Liu"
+name                     : &name "Shuaiqi Liu 刘帅岐"
 description              : &description "personal description"
 url                      : https://StevenLau6.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
