@@ -1,9 +1,10 @@
 ---
 title: "BigSurvey"
 collection: Dataset
-permalink: 'https://github.com/StevenLau6/BigSurvey'
+permalink: /dataset/bigsurvey-dataset
 excerpt: 'A large-scale dataset for numerous academic papers summarization.'
-url: 'https://github.com/StevenLau6/BigSurvey'
+github: "https://github.com/StevenLau6/BigSurvey"
+paperurl: "https://www.ijcai.org/proceedings/2022/0591.pdf"
 ---
 
 Paper <a href="https://www.ijcai.org/proceedings/2022/0591.pdf">[PDF]</a>
