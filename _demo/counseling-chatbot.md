@@ -1,7 +1,7 @@
 ---
 title: "Psychological counseling chatbot"
 collection: Demo
-permalink: 'https://github.com/chenbingxiayu/chatbot-demo'
+permalink: '/demo/counseling-chatbot'
 excerpt: 'A triage chatbot for psychological counseling.'
 github: "https://github.com/chenbingxiayu/chatbot-demo"
 video: ""
