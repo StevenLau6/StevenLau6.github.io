@@ -12,9 +12,9 @@ LIU is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/
 
 ## Education:
 
-Ph.D. Candidate in Computer Science, Sep. 2019 – Present, The Hong Kong Polytechnic University (PolyU), Hong Kong, China
+Ph.D. Candidate in Computer Science, Sep. 2019 – Present, The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, Hong Kong, China
 
-B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University (ZJU), Hangzhou, China
+B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <a href="https://www.zju.edu.cn/english/">(ZJU)</a>, Hangzhou, China
 
 ## Research Interests:
 * Natural Language Processing
