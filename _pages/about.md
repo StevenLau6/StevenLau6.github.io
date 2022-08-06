@@ -49,6 +49,19 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019-May 2019
 ## Academic Services:
 Reviewer of ACL 2021, KDD 2022, BigData 2021 2020, and COMPSAC 2022.
 
+## Award:
+
+Outstanding Graduates of Zhejiang University
+
+Outstanding Undergraduate Thesis Award
+
+Zhejiang University First-Class Scholarship for Research and Innovation 17-18
+
+Zhejiang University Outstanding Student Awards 16-17, 17-18
+
+Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
+
+
 ------
 
 ## Contact Me:
