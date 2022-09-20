@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-LIU is currently a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ PolyU, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
+LIU is a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ <a href="https://www.polyu.edu.hk/" target="_blank">PolyU</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
+
+LIU is currently an exchange visitor in the <a href="https://bdsc.lab.uic.edu/index.html" target="_blank">BDSC Lab</a> @ <a href="https://www.uic.edu/" target="_blank">UIC</a>, under the supervision of <a href="https://cs.uic.edu/profiles/philip-yu/" target="_blank">Prof. Philip S. Yu</a>. 
 
 ## Education:
 
@@ -18,9 +20,10 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 ## Research Interests:
 * Natural Language Processing
+* Natural Language Generation
 * Document Summarization
 * Text Summarization
-* Text Generation
+
 
 ## Publications:
 
@@ -67,4 +70,4 @@ Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 ## Contact Me:
 Email: cssqliu@comp.polyu.edu.hk
 
-Office: PQ503, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR , China
+Office: PQ509, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR, China
