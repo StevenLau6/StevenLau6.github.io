@@ -52,7 +52,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 Algorithm Engineer Intern, Didi Chuxing, Jan. 2019-May 2019
 
 ## Academic Services:
-Reviewer of ACL 2021, KDD 2022, BigData 2021 2020, and COMPSAC 2022.
+Reviewer of ACL 2021, KDD 2022, BigData 2021 2020, COMPSAC 2022, JAIHC.
 
 ## Award:
 
