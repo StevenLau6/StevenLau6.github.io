@@ -27,7 +27,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 ## Publications:
 
-**[EMNLP Findings 22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Long Text and Multi-Table Summarization: Dataset and Method", The 2022 Conference on Empirical Methods in Natural Language Processing. <a href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.145.pdf">[PDF]</a>
+**[EMNLP Findings 22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Long Text and Multi-Table Summarization: Dataset and Method", The 2022 Conference on Empirical Methods in Natural Language Processing. <a href="https://aclanthology.org/2022.findings-emnlp.145.pdf">[PDF]</a>
 
 **[IJCAI-22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method", The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. <a href="https://www.ijcai.org/proceedings/2022/0591.pdf">[PDF]</a>
 
