@@ -15,7 +15,7 @@ LIU is a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/i
 
 Ph.D. Candidate in Computer Science, Sep. 2019 – Present, The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, Hong Kong, China
 
-Exchange Visiting Student, Sep. 2022 – Mar. 2023, <a href="https://bdsc.lab.uic.edu/index.html" target="_blank">BDSC Lab</a> @ <a href="https://www.uic.edu/" target="_blank">UIC</a>, under the supervision of <a href="https://cs.uic.edu/profiles/philip-yu/" target="_blank">Prof. Philip S. Yu</a>. 
+Exchange Visiting Student, Sep. 2022 – Mar. 2023, <a href="https://bdsc.lab.uic.edu/index.html" target="_blank">BDSC Lab</a> @ University of Illinois Chicago <a href="https://www.uic.edu/" target="_blank">(UIC)</a>, under the supervision of <a href="https://cs.uic.edu/profiles/philip-yu/" target="_blank">Prof. Philip S. Yu</a>. 
 
 B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <a href="https://www.zju.edu.cn/english/">(ZJU)</a>, Hangzhou, China
 
