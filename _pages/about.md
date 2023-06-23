@@ -37,7 +37,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 **[ACL Findings 21]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. <a href="https://aclanthology.org/2021.findings-acl.445.pdf">[PDF]</a>
 
-**[IPM]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Haoli Wang, Ruosong Yang, **Shuaiqi Liu**. Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323001590">[PDF]</a>
+**[IPM]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Haoli Wang, Ruosong Yang, **Shuaiqi Liu**. "DesPrompt: Personality-descriptive prompt tuning for few-shot personality recognition." Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323001590">[PDF]</a>
 
 **[ACL Findings 21]** Zhiyuan Wen, Jiannong Cao, Ruosong Yang, **Shuaiqi Liu**, Jiaxing Shen. "Automatically Select Emotion for Response via Personality-affected Emotion Transition", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. <a href="https://aclanthology.org/2021.findings-acl.444/">[PDF]</a>
 
