@@ -22,6 +22,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 ## Research Interests:
 * Natural Language Processing
 * Natural Language Generation
+* Large Language Model
 * Document Summarization
 * Multi-Modal Summarization
 * Document AI
