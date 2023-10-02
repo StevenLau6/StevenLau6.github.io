@@ -59,7 +59,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 Algorithm Engineer Intern, Didi Chuxing, Jan. 2019-May 2019
 
 ## Academic Services:
-Reviewer of ACL 2023 2021, EMNLP 2023, KDD 2022, BigData 2023 2021 2020, COMPSAC 2022, JAIHC, TIIS.
+Reviewer of ACL Rolling Review (ARR), ACL 2023 2021, EMNLP 2023, KDD 2022, BigData 2023 2021 2020, COMPSAC 2022, JAIHC, TIIS.
 
 ## Award:
 
