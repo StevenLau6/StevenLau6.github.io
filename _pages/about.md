@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuaiqi LIU 刘帅岐"
+title: "Shuaiqi Liu 刘帅岐"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-LIU is a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ <a href="https://www.polyu.edu.hk/" target="_blank">PolyU</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
+Liu is a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ <a href="https://www.polyu.edu.hk/" target="_blank">PolyU</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
 
  
 ## Education:
@@ -61,7 +61,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 Algorithm Engineer Intern, Didi Chuxing, Jan. 2019-May 2019
 
 ## Academic Services:
-Reviewer of ACL Rolling Review (ARR), ACL 2023 2021, EMNLP 2023, KDD 2022, BigData 2023 2021 2020, COMPSAC 2022, JAIHC, TIIS.
+Reviewer of ACL Rolling Review (ARR), ACL 2023 2021, EMNLP 2023, KDD 2022, BigData 2023 2021 2020, COMPSAC 2022, IPM, JAIHC, TIIS.
 
 ## Award:
 
@@ -79,6 +79,6 @@ Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 ------
 
 ## Contact Me:
-Email: cssqliu@comp.polyu.edu.hk
+Email: shuaiqi.liu@connect.polyu.hk
 
 Office: PQ509, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR, China
