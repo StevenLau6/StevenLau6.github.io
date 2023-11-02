@@ -25,8 +25,8 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 * Large Language Model
 * Document Summarization
 * Multi-Modal Summarization
-* Document AI
 * Data-Centric AI
+* AI for Social Science
 
 ## Publications:
 
@@ -77,6 +77,8 @@ Zhejiang University Outstanding Student Awards 16-17, 17-18
 
 Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 
+## Hobbies:
+History, Economics, and Science Fiction
 
 ------
 
