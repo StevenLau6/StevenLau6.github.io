@@ -80,7 +80,6 @@ Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 ## Hobbies:
 * Reading: History, Economics, and Science Fiction
 * Sports: Swimming, Hiking, Badminton
-* Gammes: FPS games
 
 ------
 
