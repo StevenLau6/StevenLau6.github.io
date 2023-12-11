@@ -63,7 +63,7 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019-May 2019
 ## Academic Services:
 Conference Reviewer/Program Committee Member: ACL Rolling Review (ARR), ACL 2023 2021, EMNLP 2023, KDD 2022, BigData 2023 2021 2020, COMPSAC 2022, Percom 2023.
 
-Journal Reviewer: TNNLS, IPM, JAIHC, TIIS
+Journal Reviewer: TNNLS, IPM, JAIHC, TIIS, High-Confidence Computing
 
 ## Award:
 
