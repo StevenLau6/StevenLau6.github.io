@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Liu is a PhD candidate in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ <a href="https://www.polyu.edu.hk/" target="_blank">PolyU</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
+Liu is a Ph.D. in the <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ <a href="https://www.polyu.edu.hk/" target="_blank">PolyU</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
 
  
 ## Education:
 
-Ph.D. Candidate in Computer Science, Sep. 2019 – Present, The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, Hong Kong, China
+Ph.D. in Computer Science, Sep. 2019 –  Dec. 2023, The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, Hong Kong, China
 
 Exchange Visiting Student, Sep. 2022 – Mar. 2023, <a href="https://bdsc-uic.github.io/index.html" target="_blank">BDSC Lab</a> @ University of Illinois Chicago <a href="https://www.uic.edu/" target="_blank">(UIC)</a>, under the supervision of <a href="https://cs.uic.edu/profiles/philip-yu/" target="_blank">Prof. Philip S. Yu</a>. 
 
@@ -29,6 +29,8 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 * Trustworthy NLP
 
 ## Publications:
+
+**[Thesis]** **Shuaiqi Liu**, Neural Abstractive Summarization for Long Documents, The Hong Kong Polytechnic University
 
 **[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering. <a href="https://ieeexplore.ieee.org/document/10285615">[PDF]</a>
 
