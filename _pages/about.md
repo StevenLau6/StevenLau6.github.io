@@ -12,7 +12,7 @@ Liu is a Ph.D. in Computer Science.
 
 ## Education:
 
-Ph.D. in Computer Science, Sep. 2019 –  Dec. 2023, <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
+Ph.D. in Computer Science, Sep. 2019 –  Jan. 2024, <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
 
 Exchange Visiting Student, Sep. 2022 – Mar. 2023, <a href="https://bdsc-uic.github.io/index.html" target="_blank">BDSC Lab</a> @ University of Illinois Chicago <a href="https://www.uic.edu/" target="_blank">(UIC)</a>, under the supervision of <a href="https://cs.uic.edu/profiles/philip-yu/" target="_blank">Prof. Philip S. Yu</a>. 
 
