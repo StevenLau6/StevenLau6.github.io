@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Liu is a Postdoctoral Fellow @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>.
+Liu is a Postdoctoral Fellow @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>. Liu is working on Generative AI and Natural Language Processing.
 
 ## Education:
 
@@ -24,8 +24,10 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 * Large Language Model
 * Document Summarization
 * Data-Centric AI
-* AI for Social Science
 * Trustworthy NLP
+* AI for Social Science
+* Generative AI for Design
+
 
 ## Publications:
 
@@ -42,6 +44,8 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 **[ACL Findings 21]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. <a href="https://aclanthology.org/2021.findings-acl.445.pdf">[PDF]</a>
 
 **[IPM]** Chenxi Hua, Tao Wu\*, **Shuaiqi Liu\***, Chunsheng Liu, Tao Ma, Fang Yang. "Joint Unsupervised Contrastive Learning and Robust GMM for Text Clustering", Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/pii/S0306457323002662">[PDF]</a>
+
+**[PerCom 2024]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Ruosong Yang, **Shuaiqi Liu**. "Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation", The 22nd International Conference on Pervasive Computing and Communications (2024)
 
 **[IPM]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Haoli Wang, Ruosong Yang, **Shuaiqi Liu**. "DesPrompt: Personality-descriptive prompt tuning for few-shot personality recognition." Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323001590">[PDF]</a>
 
@@ -79,13 +83,13 @@ Zhejiang University Outstanding Student Awards 16-17, 17-18
 Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 
 ## Hobbies:
-* Reading: History, Economics, and Science Fiction
+* Reading: History, Economics, Sociology, and Science Fiction
 * Sports: Swimming, Hiking
-* Games: FPS, RTS
+* Games: FPS, RTS, Go
 
 ------
 
 ## Contact Me:
 Email: shuaiqi.liu@connect.polyu.hk
 
-Office: PQ509, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR, China
+Office: PQ504, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR, China
