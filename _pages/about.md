@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Liu is a Ph.D. in Computer Science.
+Liu is a Postdoctoral Fellow @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>.
 
 ## Education:
 
@@ -80,7 +80,8 @@ Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 
 ## Hobbies:
 * Reading: History, Economics, and Science Fiction
-* Sports: Swimming, Hiking, Badminton
+* Sports: Swimming, Hiking
+* Games: FPS, RTS
 
 ------
 
