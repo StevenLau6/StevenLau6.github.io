@@ -31,8 +31,6 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 ## Publications:
 
-**[Thesis]** **Shuaiqi Liu**, Neural Abstractive Summarization for Long Documents, The Hong Kong Polytechnic University
-
 **[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering. <a href="https://ieeexplore.ieee.org/document/10285615">[PDF]</a>
 
 **[EMNLP Findings 22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Long Text and Multi-Table Summarization: Dataset and Method", The 2022 Conference on Empirical Methods in Natural Language Processing. <a href="https://aclanthology.org/2022.findings-emnlp.145.pdf">[PDF]</a>
@@ -51,6 +49,8 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 **[ACL Findings 21]** Zhiyuan Wen, Jiannong Cao, Ruosong Yang, **Shuaiqi Liu**, Jiaxing Shen. "Automatically Select Emotion for Response via Personality-affected Emotion Transition", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. <a href="https://aclanthology.org/2021.findings-acl.444/">[PDF]</a>
 
+**[Thesis]** **Shuaiqi Liu**, Neural Abstractive Summarization for Long Documents, The Hong Kong Polytechnic University
+
 <a href="https://scholar.google.com.hk/citations?hl=en&user=OLgJJ2MAAAAJ" target="_blank">Full List</a>
 
 
@@ -62,8 +62,12 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 * Teaching Assistant, 2021 Fall, COMP4133: Information Retrieval
 * Teaching Assistant, 2022 Spring, COMP5511: Artificial Intelligence Concepts
 
-## Intern Experiences:
-Algorithm Engineer Intern, Didi Chuxing, Jan. 2019-May 2019
+## Working Experiences:
+
+Postdoctoral Fellow, The Hong Kong Polytechnic University, Feb. 2024 - Now
+
+Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
+
 
 ## Academic Services:
 Conference Reviewer/Program Committee Member: ACL Rolling Review (ARR), ACL 2023 2021, EMNLP 2023, KDD 2022, BigData 2023 2021 2020, COMPSAC 2022, Percom 2023.
@@ -92,4 +96,4 @@ Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 ## Contact Me:
 Email: shuaiqi.liu@connect.polyu.hk
 
-Office: PQ504, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR, China
+Office: PQ509, Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Yuk Choi Road 11, Hung Hom, Kowloon, Hong Kong SAR, China
