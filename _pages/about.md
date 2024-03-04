@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Liu is a Postdoctoral Fellow @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>. Liu is working on Generative AI and Natural Language Processing.
+Dr. Liu is a Postdoctoral Fellow @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a> working on Generative AI and Natural Language Processing.
 
 ## Education:
 
@@ -31,7 +31,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 ## Publications:
 
-**[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering. <a href="https://ieeexplore.ieee.org/document/10285615">[PDF]</a>
+**[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering (2023). <a href="https://ieeexplore.ieee.org/document/10285615">[PDF]</a>
 
 **[EMNLP Findings 22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Long Text and Multi-Table Summarization: Dataset and Method", The 2022 Conference on Empirical Methods in Natural Language Processing. <a href="https://aclanthology.org/2022.findings-emnlp.145.pdf">[PDF]</a>
 
@@ -44,6 +44,8 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 **[IPM]** Chenxi Hua, Tao Wu\*, **Shuaiqi Liu\***, Chunsheng Liu, Tao Ma, Fang Yang. "Joint Unsupervised Contrastive Learning and Robust GMM for Text Clustering", Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/pii/S0306457323002662">[PDF]</a>
 
 **[PerCom 2024]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Ruosong Yang, **Shuaiqi Liu**. "Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation", The 22nd International Conference on Pervasive Computing and Communications (2024)
+
+**[TOIS]** Zhiyuan Wen, Jiannong Cao, Ruosong Yang, **Shuaiqi Liu**, Jiaxing Shen, Maosong Sun. "Personality-affected Emotion Generation in Dialog Systems", ACM Transactions on Information Systems (2024)
 
 **[IPM]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Haoli Wang, Ruosong Yang, **Shuaiqi Liu**. "DesPrompt: Personality-descriptive prompt tuning for few-shot personality recognition." Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323001590">[PDF]</a>
 
