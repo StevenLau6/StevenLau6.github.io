@@ -60,19 +60,21 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 <a href="https://scholar.google.com.hk/citations?hl=en&user=OLgJJ2MAAAAJ" target="_blank">Full List</a>
 
 
+## Working Experiences:
+
+Postdoctoral Fellow, The Hong Kong Polytechnic University, Feb. 2024 - Now
+
+Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
+
+
 ## Teaching Experience:
+
 * Teaching Assistant, 2019 Fall, COMP3011: Design and Analysis of Algorithms
 * Teaching Assistant, 2020 Spring, COMP1011: Programming Fundamentals (C++)
 * Teaching Assistant, 2020 Fall, COMP3131: Business and Information Systems Strategies
 * Teaching Assistant, 2021 Spring, COMP2421: Computer Organization
 * Teaching Assistant, 2021 Fall, COMP4133: Information Retrieval
 * Teaching Assistant, 2022 Spring, COMP5511: Artificial Intelligence Concepts
-
-## Working Experiences:
-
-Postdoctoral Fellow, The Hong Kong Polytechnic University, Feb. 2024 - Now
-
-Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 
 
 ## Academic Services:
