@@ -9,3 +9,6 @@ main:
   - title: "Demo"
     url: /demo/ 
     
+  - title: "Talk"
+    url: /talk/ 
+    
