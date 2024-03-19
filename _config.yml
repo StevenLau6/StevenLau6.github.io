@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shuaiqi Liu"
   avatar           : "profile.png"
-  bio              : "Ph.D."
+  bio              : "Ph.D. (PolyU), BEng (ZJU)"
   location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.hk/citations?user=OLgJJ2MAAAAJ&hl=en"
-  email            : "cssqliu@comp.polyu.edu.hk"
+  email            : "shuaiqi.liu@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -244,7 +244,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: talk
     values:
       layout: talk
       author_profile: true
