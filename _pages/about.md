@@ -47,7 +47,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 **[IPM]** Chenxi Hua, Tao Wu\*, **Shuaiqi Liu\***, Chunsheng Liu, Tao Ma, Fang Yang. "Joint Unsupervised Contrastive Learning and Robust GMM for Text Clustering", Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/pii/S0306457323002662">[PDF]</a>
 
-**[PerCom 2024]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Ruosong Yang, **Shuaiqi Liu**. "Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation", The 22nd International Conference on Pervasive Computing and Communications (2024)
+**[PerCom 2024]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Ruosong Yang, **Shuaiqi Liu**. "Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation", The 22nd International Conference on Pervasive Computing and Communications (2024) <a href="http://arxiv.org/abs/2404.02589">[PDF]</a>
 
 **[TOIS]** Zhiyuan Wen, Jiannong Cao, Ruosong Yang, **Shuaiqi Liu**, Jiaxing Shen, Maosong Sun. "Personality-affected Emotion Generation in Dialog Systems", ACM Transactions on Information Systems (2024)
 
