@@ -23,6 +23,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 * Natural Language Generation
 * Large Language Model
 * Document Summarization
+* LLM-based Agent
 * Data-Centric AI
 * Trustworthy NLP
 * AI for Social Science
@@ -30,6 +31,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 
 ## Publications:
+
 
 
 **[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering (2023). <a href="https://ieeexplore.ieee.org/document/10285615">[PDF]</a>
