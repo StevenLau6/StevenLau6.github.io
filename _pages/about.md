@@ -34,20 +34,21 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 
 
-**[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering (2023). <a href="https://ieeexplore.ieee.org/document/10285615">[PDF]</a>
-
+**[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering (2023). <a href="https://www.computer.org/csdl/journal/tk/2024/06/10285615/1Rd2tT6VqUg">[PDF]</a>
 
 **[EMNLP Findings 22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Long Text and Multi-Table Summarization: Dataset and Method", The 2022 Conference on Empirical Methods in Natural Language Processing. <a href="https://aclanthology.org/2022.findings-emnlp.145.pdf">[PDF]</a>
 
 **[IJCAI-22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method", The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. <a href="https://www.ijcai.org/proceedings/2022/0591.pdf">[PDF]</a>
 
-**[IPM]** **Shuaiqi Liu**, Jiannong Cao, Yicong Li, Ruosong Yang and Zhiyuan Wen, "Low-Resource Court Judgment Summarization for Common Law Systems" (Major Revision) <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
+**[IPM]** **Shuaiqi Liu**, Jiannong Cao, Yicong Li, Ruosong Yang and Zhiyuan Wen, "Low-Resource Court Judgment Summarization for Common Law Systems" (Minor Revision) <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
 
 **[IPM]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Key phrase aware transformer for abstractive summarization." Information Processing & Management 59.3 (2022): 102913. <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000395">[PDF]</a>
 
 **[ACL Findings 21]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. <a href="https://aclanthology.org/2021.findings-acl.445.pdf">[PDF]</a>
 
 **[IPM]** Chenxi Hua, Tao Wu\*, **Shuaiqi Liu\***, Chunsheng Liu, Tao Ma, Fang Yang. "Joint Unsupervised Contrastive Learning and Robust GMM for Text Clustering", Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/pii/S0306457323002662">[PDF]</a>
+
+**[KDD 2024]**	Yicong Li, Yu Yang, Jiannong Cao, **Shuaiqi Liu**, Haoran Tang, Guandong Xu. “Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach”, 2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 
 
 **[PerCom 2024]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Ruosong Yang, **Shuaiqi Liu**. "Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation", The 22nd International Conference on Pervasive Computing and Communications (2024) <a href="http://arxiv.org/abs/2404.02589">[PDF]</a>
 
