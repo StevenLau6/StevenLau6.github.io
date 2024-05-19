@@ -40,7 +40,7 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 **[IJCAI-22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method", The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. <a href="https://www.ijcai.org/proceedings/2022/0591.pdf">[PDF]</a>
 
-**[IPM]** **Shuaiqi Liu**, Jiannong Cao, Yicong Li, Ruosong Yang and Zhiyuan Wen, "Low-Resource Court Judgment Summarization for Common Law Systems" (Minor Revision) <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
+**[IPM]** **Shuaiqi Liu**, Jiannong Cao, Yicong Li, Ruosong Yang and Zhiyuan Wen, "Low-Resource Court Judgment Summarization for Common Law Systems" (2024) <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
 
 **[IPM]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Key phrase aware transformer for abstractive summarization." Information Processing & Management 59.3 (2022): 102913. <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000395">[PDF]</a>
 
