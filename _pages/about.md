@@ -10,6 +10,9 @@ redirect_from:
 
 Dr. Liu is a AI Researcher @ Huawei Technologies Co. working on Large Language Model, Natural Language Processing, and Generative AI.
 
+Liu is currently focusing on optimizing the training and data schemes for large language models, encompassing both pre-training and post-training stages. He is also studying the training infrastructures and domain applications of LLMs.
+
+
 ## Education:
 
 Ph.D. in Computer Science, Sep. 2019 –  Jan. 2024, <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
