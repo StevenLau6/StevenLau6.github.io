@@ -32,15 +32,14 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 
 
 ## Research Interests:
+* Large Language Model
 * Natural Language Processing
 * Natural Language Generation
-* Large Language Model
 * Document Summarization
 * LLM-based Agent
 * Data-Centric AI
 * Trustworthy NLP
-* AI for Social Science
-* Generative AI for Design
+
 
 
 ## Publications:
