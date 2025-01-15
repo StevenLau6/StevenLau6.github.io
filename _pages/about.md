@@ -10,7 +10,8 @@ redirect_from:
 
 Dr. Liu is a AI Researcher @ Huawei Technologies Co. working on Large Language Model, Natural Language Processing, and Generative AI.
 
-Liu is currently focusing on optimizing the training and data schemes for large language models, encompassing both pre-training and post-training stages. He is also studying the training infrastructures and domain applications of LLMs.
+
+Liu is currently focusing on optimizing the training and data schemes for large language models, encompassing both pre-training and post-training stages. He is also working on the training infrastructures and domain applications of LLMs.
 
 
 ## Education:
@@ -90,7 +91,9 @@ Conference Reviewer/Program Committee Member: ACL Rolling Review (ARR), ACL 2023
 
 Journal Reviewer: TNNLS, IPM, JAIHC, TIIS, High-Confidence Computing
 
-## Award:
+## Awards:
+
+Huawei Future Star 2024
 
 Outstanding Graduates of Zhejiang University
 
