@@ -93,6 +93,8 @@ Journal Reviewer: TNNLS, IPM, JAIHC, TIIS, High-Confidence Computing
 
 ## Awards:
 
+Huawei Innovation and Technology Breakthrough Award 2024
+
 Huawei Future Star 2024
 
 Outstanding Graduates of Zhejiang University
