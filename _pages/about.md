@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Liu is an AI Researcher @ Huawei Technologies Co. working on Large Language Model, Natural Language Processing, and Generative AI.
+Dr. Liu is an AI Researche working on Large Language Model, Natural Language Processing, Self-Evolving Agent, and Generative AI.
 
 
-Liu currently focuses on large language models, encompassing the training methods and data recipes for the pre-training and post-training stages. He is also working on the training infrastructures and domain applications of LLMs.
+Liu currently focuses on large language models, encompassing the training methods and data recipes for the pre-training and post-training stages. He is also working on the self-evolving agents and autonomous systems.
 
 
 ## Education:
@@ -37,7 +37,7 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 * Natural Language Processing
 * Natural Language Generation
 * Document Summarization
-* LLM-based Agent
+* Self-Evolving Agent / Autonomous System
 * Data-Centric AI
 * Trustworthy NLP
 
@@ -107,6 +107,7 @@ Zhejiang University Outstanding Student Awards 16-17, 17-18
 
 Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 
+
 ## Hobbies:
 
 * Reading: History, Economics, Sociology, and Science Fiction
@@ -116,6 +117,5 @@ Scholarships for Outstanding Merits & Outstanding Student 15-16, 16-17, 17-18
 ------
 
 ## Contact Me:
-Email: shuaiqi.liu@connect.polyu.hk
+Email: shuaiqi_liu@outlook.com
 
-Office: Songshan Lake, Dongguan, Guadong Province, China
