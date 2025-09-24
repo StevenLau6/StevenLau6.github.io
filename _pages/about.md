@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Liu is an AI Researche working on Large Language Model, Natural Language Processing, Self-Evolving Agent, and Generative AI.
+Dr. Liu is an AI researcher working on Large Language Model, Natural Language Processing, Self-Evolving Agent, and Generative AI.
 
 
 Liu currently focuses on large language models, encompassing the training methods and data recipes for the pre-training and post-training stages. He is also working on the self-evolving agents and autonomous systems.
