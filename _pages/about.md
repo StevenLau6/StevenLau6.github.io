@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Liu is an AI researcher working on Large Language Model, Natural Language Processing, Self-Evolving Agent, and Generative AI.
+Dr. Liu is an AI researcher working on Large Language Model, Self-Evolving Agent, Natural Language Processing, and Generative AI.
 
 
 Liu currently focuses on large language models, encompassing the training methods and data recipes for the pre-training and post-training stages. He is also working on the self-evolving agents and autonomous systems.
@@ -25,7 +25,9 @@ B.Eng. in Electrical Engineering, Sep. 2015 – Jun. 2019, Zhejiang University <
 
 ## Working Experiences:
 
-AI Algorithm Researcher (Senior Engineer), Huawei Technologies Co., Ltd, May 2024 - Now
+Algorithm Expert, Alibaba Group, Oct. 2025 - Now
+
+AI Algorithm Researcher (Senior Engineer), Huawei Technologies Co., Ltd, May 2024 - Sept. 2025
 
 Postdoctoral Fellow, The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, Feb. 2024 - May 2024
 
@@ -34,10 +36,10 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 
 ## Research Interests:
 * Large Language Model
+* Self-Evolving Agent / Autonomous System
 * Natural Language Processing
 * Natural Language Generation
 * Document Summarization
-* Self-Evolving Agent / Autonomous System
 * Data-Centric AI
 * Trustworthy NLP
 
