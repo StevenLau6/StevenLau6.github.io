@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Shuaiqi Liu 刘帅岐"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
