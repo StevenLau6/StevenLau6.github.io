@@ -15,6 +15,13 @@ Liu currently focuses on large language models, encompassing training methods an
 
 Liu is currently with the Tongyi Large Model Business Unit at Alibaba.
 
+
+## News:
+
+We are excited to share our new survey: "The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions". <a href="https://www.preprints.org/manuscript/202608.0051">[PDF]</a> <a href="https://d2i-ai.github.io/awesome-recursive-self-improving-agents/">[Project]</a> <a href="https://github.com/D2I-ai/awesome-recursive-self-improving-agents">[Github]</a>  
+We propose a unified research framework for analyzing self-improving agent systems and introduce the five-level grading standard for self-improvement capability (L1-L5), ranging from manual improvement to general recursive self-improvement. 
+
+
 ## Education:
 
 Ph.D. in Computer Science, Sep. 2019 –  Jan. 2024, <a href="https://www4.comp.polyu.edu.hk/~labimcl/index.html" target="_blank">IMCL Group</a> @ The Hong Kong Polytechnic University <a href="https://www.polyu.edu.hk/">(PolyU)</a>, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/" target="_blank">Prof. Jiannong Cao</a>. 
@@ -48,6 +55,8 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 
 ## Publications:
 
+
+**[Survey]** Shuaiqi Liu, Zhengkai Lin, Yuxiang Zhang, Yuanyi Ren, Yue Wu, Yongbin Li, Zheng Wang, Zhihang Fu, Jieping Ye, "The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions", <a href="https://www.preprints.org/manuscript/202608.0051">[PDF]</a> <a href="https://d2i-ai.github.io/awesome-recursive-self-improving-agents/">[Project]</a> <a href="https://github.com/D2I-ai/awesome-recursive-self-improving-agents">[Github]</a>
 
 **[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering (2023). <a href="https://www.computer.org/csdl/journal/tk/2024/06/10285615/1Rd2tT6VqUg">[PDF]</a>
 
