@@ -65,7 +65,7 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 
 **[EMNLP Findings 22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Long Text and Multi-Table Summarization: Dataset and Method", The 2022 Conference on Empirical Methods in Natural Language Processing. <a href="https://aclanthology.org/2022.findings-emnlp.145.pdf">[PDF]</a>
 
-**[IJCAI-22]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method", The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. <a href="https://www.ijcai.org/proceedings/2022/0591.pdf">[PDF]</a>
+**[IJCAI 2022]** **Shuaiqi Liu**, Jiannong Cao, Ruosong Yang and Zhiyuan Wen. "Generating a Structured Summary of Numerous Academic Papers: Dataset and Method", The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. <a href="https://www.ijcai.org/proceedings/2022/0591.pdf">[PDF]</a>
 
 **[IPM]** **Shuaiqi Liu**, Jiannong Cao, Yicong Li, Ruosong Yang and Zhiyuan Wen, "Low-Resource Court Judgment Summarization for Common Law Systems" (2024) <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
 
@@ -77,7 +77,7 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 
 **[KDD 2024]**	Yicong Li, Yu Yang, Jiannong Cao, **Shuaiqi Liu**, Haoran Tang, Guandong Xu. “Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach”, 2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. <a href="https://arxiv.org/pdf/2406.13201">[PDF]</a>
 
-**[EMNLP-26]** Beichen Guo, Zhiyuan Wen, Jia Gu, Haochen Shi, Jian Wang, Senzhang Wang, Haoyang Li, Ruosong Yang, **Shuaiqi Liu**, "SurveyLens: A Discipline-Aware Benchmark for Automatic Survey Generation", <a href="https://arxiv.org/pdf/2602.11238">[PDF]</a>
+**[EMNLP 2026]** Beichen Guo, Zhiyuan Wen, Jia Gu, Haochen Shi, Jian Wang, Senzhang Wang, Haoyang Li, Ruosong Yang, **Shuaiqi Liu**, "SurveyLens: A Discipline-Aware Benchmark for Automatic Survey Generation", <a href="https://arxiv.org/pdf/2602.11238">[PDF]</a>
 
 **[PerCom 2024]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Ruosong Yang, **Shuaiqi Liu**. "Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation", The 22nd International Conference on Pervasive Computing and Communications (2024) <a href="http://arxiv.org/abs/2404.02589">[PDF]</a>
 
