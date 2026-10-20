@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Liu is an AI researcher working on Large Language Models, Self-Evolving Agents, Natural Language Processing, and Generative AI.
 
-Liu currently focuses on large language models, encompassing training methods and data recipes for the pre-training and post-training stages. He is also working on recursive self-improving agents and autonomous systems. He has participated in dozens of LLM and agent R&D projects across scientific research, telecommunications, finance, law, education, cybersecurity, sports, and other industries.
+Liu currently focuses on large language models, encompassing training methods and data recipes for the pre-training and post-training stages. He is also working on recursive self-improving agents and autonomous systems. 
 
 Liu is currently with the Tongyi Large Model Business Unit at Alibaba.
 
