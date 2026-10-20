@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Liu is an AI researcher working on Large Language Models, Self-Evolving Agents, Natural Language Processing, and Generative AI.
 
-Liu currently focuses on large language models, encompassing training methods and data recipes for the pre-training and post-training stages. He is also working on self-evolving agents and autonomous systems.
+Liu currently focuses on large language models, encompassing training methods and data recipes for the pre-training and post-training stages. He is also working on recursive self-improving agents and autonomous systems.
 
 Liu is currently with the Tongyi Large Model Business Unit at Alibaba.
 
@@ -19,6 +19,8 @@ Liu is currently with the Tongyi Large Model Business Unit at Alibaba.
 
 We are excited to share our new survey: "The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions". <a href="https://www.preprints.org/frontend/manuscript/3c41418aa2e782b90ee5da995565ecac/download_pub">[PDF]</a> <a href="https://self-improving-agent.com/">[Project]</a> <a href="https://github.com/D2I-ai/awesome-recursive-self-improving-agents">[Github]</a>  
 We propose a unified research framework for analyzing self-improving agent systems and introduce the five-level grading standard for self-improvement capability (L1-L5), ranging from manual improvement to general recursive self-improvement. 
+
+We further release VibeTraining-Bench, a benchmark that evaluates whether research agents can improve an agent system as a whole by co-designing its training data, trainer, and inference harness. Across five tasks, such cross-component co-design lets a 9B base model approach its counterpart with human posttraining. <a href="https://arxiv.org/pdf/2610.26342">[PDF]</a> <a href="https://d2i-ai.github.io/VibeTraining-Bench/index.html">[Project]</a> <a href="https://github.com/D2I-ai/VibeTraining-Bench">[Github]</a>
 
 
 ## Education:
@@ -43,7 +45,7 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 
 ## Research Interests:
 * Large Language Model
-* Self-Evolving Agent / Autonomous System
+* Self-Evolving Agent / Recursive Self-Improving Agent / Autonomous System
 * Natural Language Processing
 * Natural Language Generation
 * Document Summarization
@@ -55,7 +57,9 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 ## Publications:
 
 
-**[Survey]** Shuaiqi Liu, Zhengkai Lin, Yuxiang Zhang, Yuanyi Ren, Yue Wu, Yongbin Li, Zheng Wang, Zhihang Fu, Jieping Ye, "The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions", <a href="https://www.preprints.org/frontend/manuscript/3c41418aa2e782b90ee5da995565ecac/download_pub">[PDF]</a> <a href="https://self-improving-agent.com/">[Project]</a> <a href="https://github.com/D2I-ai/awesome-recursive-self-improving-agents">[Github]</a>
+**[Survey]** **Shuaiqi Liu**, Zhengkai Lin, Yuxiang Zhang, Yuanyi Ren, Yue Wu, Yongbin Li, Zheng Wang, Zhihang Fu, Jieping Ye, "The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions", <a href="https://www.preprints.org/frontend/manuscript/3c41418aa2e782b90ee5da995565ecac/download_pub">[PDF]</a> <a href="https://self-improving-agent.com/">[Project]</a> <a href="https://github.com/D2I-ai/awesome-recursive-self-improving-agents">[Github]</a>
+
+**[RSI Benchmark]** Ruotian Peng, Yuanyi Ren, **Shuaiqi Liu**, Xin Guo, Fang Zhu, Yangyi Huang, Yue Wu, Zheng Wang, Yandong Wen, Zhihang Fu, "VibeTraining-Bench: Data-Trainer-Harness Co-Design for Iterative System Improvement", <a href="https://arxiv.org/pdf/2610.26342">[PDF]</a> <a href="https://d2i-ai.github.io/VibeTraining-Bench/index.html">[Project]</a> <a href="https://github.com/D2I-ai/VibeTraining-Bench">[Github]</a>
 
 **[TKDE]** **Shuaiqi Liu**, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, "Neural Abstractive Summarization for Long Text and Multiple Tables." IEEE Transactions on Knowledge and Data Engineering (2023). <a href="https://www.computer.org/csdl/journal/tk/2024/06/10285615/1Rd2tT6VqUg">[PDF]</a>
 
@@ -72,6 +76,8 @@ Algorithm Engineer Intern, Didi Chuxing, Jan. 2019 - May 2019
 **[IPM]** Chenxi Hua, Tao Wu\*, **Shuaiqi Liu\***, Chunsheng Liu, Tao Ma, Fang Yang. "Joint Unsupervised Contrastive Learning and Robust GMM for Text Clustering", Information Processing & Management (2023) <a href="https://www.sciencedirect.com/science/article/pii/S0306457323002662">[PDF]</a>
 
 **[KDD 2024]**	Yicong Li, Yu Yang, Jiannong Cao, **Shuaiqi Liu**, Haoran Tang, Guandong Xu. “Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach”, 2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. <a href="https://arxiv.org/pdf/2406.13201">[PDF]</a>
+
+**[EMNLP-26]** Beichen Guo, Zhiyuan Wen, Jia Gu, Haochen Shi, Jian Wang, Senzhang Wang, Haoyang Li, Ruosong Yang, **Shuaiqi Liu**, "SurveyLens: A Discipline-Aware Benchmark for Automatic Survey Generation", <a href="https://arxiv.org/pdf/2602.11238">[PDF]</a>
 
 **[PerCom 2024]** Zhiyuan Wen, Jiannong Cao, Yu Yang, Ruosong Yang, **Shuaiqi Liu**. "Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation", The 22nd International Conference on Pervasive Computing and Communications (2024) <a href="http://arxiv.org/abs/2404.02589">[PDF]</a>
 
