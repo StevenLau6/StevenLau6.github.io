@@ -20,7 +20,7 @@ Liu is currently with the Tongyi Large Model Business Unit at Alibaba.
 We are excited to share our new survey: "The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions". <a href="https://www.preprints.org/frontend/manuscript/3c41418aa2e782b90ee5da995565ecac/download_pub">[PDF]</a> <a href="https://self-improving-agent.com/">[Project]</a> <a href="https://github.com/D2I-ai/awesome-recursive-self-improving-agents">[Github]</a>  
 We propose a unified research framework for analyzing self-improving agent systems and introduce the five-level grading standard for self-improvement capability (L1-L5), ranging from manual improvement to general recursive self-improvement. 
 
-We further release VibeTraining-Bench, a benchmark that evaluates whether research agents can improve an agent system as a whole by co-designing its training data, trainer, and inference harness. Across five tasks, such cross-component co-design lets a 9B base model approach its counterpart with human posttraining. <a href="https://arxiv.org/pdf/2610.26342">[PDF]</a> <a href="https://d2i-ai.github.io/VibeTraining-Bench/index.html">[Project]</a> <a href="https://github.com/D2I-ai/VibeTraining-Bench">[Github]</a>
+We further release VibeTraining-Bench, a benchmark that evaluates whether research agents can improve an agent system as a whole by co-designing its training data, trainer, and inference harness. <a href="https://arxiv.org/pdf/2610.26342">[PDF]</a> <a href="https://d2i-ai.github.io/VibeTraining-Bench/index.html">[Project]</a> <a href="https://github.com/D2I-ai/VibeTraining-Bench">[Github]</a>
 
 
 ## Education:
